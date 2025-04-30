@@ -1,8 +1,8 @@
 [submodule "CreativeCore"]
 path = CreativeCore
 url = https://github.com/zmr-233/CreativeCoreDev.git
-branch = 1.21
+branch = dev-zmr233
 [submodule "LittleTiles"]
 path = LittleTiles
 url = https://github.com/zmr-233/LittleTilesDev.git
-branch = 1.21
+branch = dev-zmr233
