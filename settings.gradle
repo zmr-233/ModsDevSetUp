@@ -10,19 +10,7 @@ plugins {
 }
 
 rootProject.name = '1.21_forge'
+// rootProject.name = 'ModsDevSetUp'
 
 include ':CreativeCore'
-
-include 'AmbientSounds'
-include 'CMDCam'
-include 'EnhancedVisuals'
-include 'Friendermite'
-include 'ItemPhysic'
-include 'ItemPhysicLite'
-include 'OpticManager'
-include 'PlayerRevive'
 include 'LittleTiles'
-include 'LittleTilesImportOld'
-include 'LittleFrames'
-include 'Spice-of-Life'
-include 'NoDurabilityLost'
